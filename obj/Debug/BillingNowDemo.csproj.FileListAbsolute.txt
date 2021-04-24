@@ -1,0 +1,12 @@
+C:\Users\Sudeepto\source\repos\BillingNowDemo\bin\Debug\BillingNowDemo.exe.config
+C:\Users\Sudeepto\source\repos\BillingNowDemo\bin\Debug\BillingNowDemo.exe
+C:\Users\Sudeepto\source\repos\BillingNowDemo\bin\Debug\BillingNowDemo.pdb
+C:\Users\Sudeepto\source\repos\BillingNowDemo\obj\Debug\BillingNowDemo.csprojAssemblyReference.cache
+C:\Users\Sudeepto\source\repos\BillingNowDemo\obj\Debug\BillingNowDemo.Properties.Resources.resources
+C:\Users\Sudeepto\source\repos\BillingNowDemo\obj\Debug\BillingNowDemo.csproj.GenerateResource.cache
+C:\Users\Sudeepto\source\repos\BillingNowDemo\obj\Debug\BillingNowDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sudeepto\source\repos\BillingNowDemo\obj\Debug\BillingNowDemo.exe
+C:\Users\Sudeepto\source\repos\BillingNowDemo\obj\Debug\BillingNowDemo.pdb
+C:\Users\Sudeepto\source\repos\BillingNowDemo\obj\Debug\BillingNowDemo.CustomerDetail.resources
+C:\Users\Sudeepto\source\repos\BillingNowDemo\obj\Debug\BillingNowDemo.AddItem.resources
+C:\Users\Sudeepto\source\repos\BillingNowDemo\obj\Debug\BillingNowDemo.UI.OrderSummary.resources
