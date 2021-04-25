@@ -4,6 +4,8 @@ This project has many incomplete requirements and the end product is objectively
 ## Contributing 
 Pull requests are welcome. You can check out the project and make your own alterations. But I would suggest going on Youtube and watch [Vijay Thapa's](https://www.youtube.com/watch?v=Lttd3ohTarE&list=PLBLPjjQlnVXVnz3Hksi1th0uHXxh6Dm3h) playlist on making a proper billing system in C#. 
 ## Given Instructions 
+### Description (Word to word of what I was given)
+The project is intended to be used in any small retail shops that requires a billing system. The purpose is to have an easy and user-friendly system to allow place order for the item there in shop and get the bill. A bill will begenerated with total amount to be paid and Payment will be done in cash.The main functionality is to generate bill , get the data from database.
 ### Forms Required:
 * Customer Details
 * Add Item
